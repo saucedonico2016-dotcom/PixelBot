@@ -1,0 +1,26 @@
+{
+  "id": "pixel_neon",
+  "name": "Pixel Neón",
+  "author": "PixelBot",
+  "version": 1,
+  "frameSize": 32,
+  "palette": ["#000000", "#FF10F0", "#00F0FF", "#FFE600"],
+  "rows": {
+    "dormido": { "frames": 2, "rowIndex": 0, "loop": true },
+    "escuchando": { "frames": 6, "rowIndex": 1, "loop": true },
+    "pensando": { "frames": 6, "rowIndex": 2, "loop": true },
+    "hablando": { "frames": 4, "rowIndex": 3, "loop": true },
+    "feliz": { "frames": 4, "rowIndex": 4, "loop": true },
+    "error": { "frames": 4, "rowIndex": 5, "loop": false },
+    "confundido": { "frames": 4, "rowIndex": 6, "loop": true }
+  },
+  "fps": {
+    "dormido": 4,
+    "escuchando": 12,
+    "pensando": 8,
+    "hablando": 10,
+    "feliz": 8,
+    "error": 6,
+    "confundido": 8
+  }
+}

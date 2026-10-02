@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+*/build/
+*/.gradle/
+!*/src/main/**/build.gradle.kts
+
+# Local configuration
+local.properties
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android
+*.apk
+*.ap_
+*.aab
+*.jks
+*.keystore
+*.ks
+key.properties
+local.properties
+
+# Models (large files - downloaded in CI)
+ears/src/main/assets/vosk-model/
+app/src/main/assets/models/*.task
+app/src/main/assets/models/*.gguf
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.temp
+*.swp
+*~

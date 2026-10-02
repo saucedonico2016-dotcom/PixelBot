@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1A1A2E"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="😴"
+            android:textSize="64sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:text="Durmiendo"
+            android:textSize="16sp"
+            android:textColor="#EEEEEE"
+            android:fontFamily="sans-serif-medium" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="16dp"
+            android:text="🎤 HABLAR"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6C5CE7"
+            android:fontFamily="sans-serif-medium" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:text="👁️ Ocultar burbuja"
+            android:textSize="14sp"
+            android:textColor="#EEEEEE"
+            android:backgroundTint="#00CEC9"
+            android:fontFamily="sans-serif-medium" />
+
+    </LinearLayout>
+
+</FrameLayout>

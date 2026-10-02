@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pixel_primary">#6C5CE7</color>
+    <color name="pixel_primary_variant">#5A4BD9</color>
+    <color name="pixel_secondary">#00CEC9</color>
+    <color name="pixel_background">#1A1A2E</color>
+    <color name="pixel_surface">#16213E</color>
+    <color name="pixel_error">#FF6B6B</color>
+    <color name="pixel_on_primary">#FFFFFF</color>
+    <color name="pixel_on_secondary">#1A1A2E</color>
+    <color name="pixel_on_background">#EEEEEE</color>
+    <color name="pixel_on_surface">#EEEEEE</color>
+    <color name="pixel_on_error">#FFFFFF</color>
+</resources>

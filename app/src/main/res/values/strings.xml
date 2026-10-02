@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pixel</string>
+    <string name="onboarding_title">Pixel - Configuración inicial</string>
+    <string name="onboarding_subtitle">Pixel necesita estos permisos para funcionar. Toca cada uno para concederlo.</string>
+    <string name="permission_granted">Concedido</string>
+    <string name="permission_grant">Conceder</string>
+    <string name="skip_onboarding">Saltar (no recomendado)</string>
+    <string name="notification_channel_name">Pixel - Servicio Principal</string>
+    <string name="notification_channel_desc">Mantiene vivo el asistente para wake word y burbuja flotante</string>
+    <string name="notification_title">Pixel activo</string>
+    <string name="notification_text">Escuchando wake word... Toca para abrir</string>
+    <string name="notification_big_text">Pixel está escuchando. Di "Pixel" para activar.</string>
+    <string name="notification_action_stop">Detener</string>
+    
+    <string name="accessibility_service_name">Pixel - Manos (Accesibilidad)</string>
+    <string name="accessibility_service_description">Permite a Pixel leer la pantalla, tocar botones, escribir texto y navegar por la interfaz para ejecutar acciones.</string>
+</resources>
